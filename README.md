@@ -6,7 +6,7 @@
 
 - `01_eda_ets_snaive.ipynb` - EDA and the first submission: ETS + seasonal naive.
 - `02_daylight_ensemble.ipynb` - the submitted Daylight MLP ensemble.
-- `REPORT.ipynb` - methodology, results and limitations.
+- `KALCHENKO_report.pdf` - methodology, results, history of experiments and limitations.
 - `data/` - the two supplied CSV files.
 
 ## Run
